@@ -1,7 +1,7 @@
 # DiscordBot.md
 Basic Discord Bot files written in JS
 
-* Download Visual Studio Code
+* Download and install Node JS and Visual Studio Code
 * Unpack the Zip
 * Open Visual Studio Code
 * Drag and Drop the folder to Visual Studio Code

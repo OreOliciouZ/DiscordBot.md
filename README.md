@@ -13,3 +13,4 @@ Basic Discord Bot files written in JS
 
 * Customize the status of the bot in his discord presence
 * Basic test command "!ping" with response from the bot "Pong..."
+* For a console overview start.bat file

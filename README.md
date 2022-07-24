@@ -6,6 +6,7 @@ Basic Discord Bot files written in JS
 * Open Visual Studio Code
 * Drag and Drop the folder to Visual Studio Code
 * Add your Token in the .env file 'TOKEN=AddTokenHere'
+* Invite the Bot to your Discord
 * Customize it
 * Boot and test
 

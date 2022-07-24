@@ -1,9 +1,14 @@
 # DiscordBot.md
-Basic Discord Bot files ready unpack and customize, written in JS
+Basic Discord Bot files written in JS
 
 * Download Visual Studio Code
 * Unpack the Zip
+* Open Visual Studio Code
+* Drag and Drop the folder to Visual Studio Code
+* Add your Token in the .env file 'TOKEN=AddTokenHere'
 * Customize it
 * Boot and test
+
+It includes a basic test command with response from the bot
 
 Hf!

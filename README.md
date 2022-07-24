@@ -9,7 +9,7 @@ Basic Discord Bot files written in JS
 * Customize it
 * Boot and test
 
-# Includes following:
+# Includes following
 
 * Customize the status of the bot in his discord presence
 * Basic test command "!ping" with response from the bot "Pong..."
